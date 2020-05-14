@@ -1,3 +1,3 @@
 #!/bin/bash
-
-sh themes/ant-dracula.sh
+sh themes/theme.sh
+sh themes/icons.sh
