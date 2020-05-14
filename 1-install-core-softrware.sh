@@ -1,3 +1,3 @@
 #!/bin/bash
-sudo apt install -y gdebi-core wget build-essentials zlib1g-dev libncurses5-dev libgdbm-dev libnss3-dev libssl-dev libreadline-dev libffi-dev libsqlite3-dev 
-sudo apt install -y libbz2-dev software-properties-common apt-transport-https openssl git curl ca-certificates gnupg-agent gnome-tweaks python-software-properties
+sudo apt install -y gdebi-core wget build-essential zlib1g-dev libncurses5-dev libgdbm-dev libnss3-dev libssl-dev libreadline-dev libffi-dev libsqlite3-dev 
+sudo apt install -y libbz2-dev software-properties-common apt-transport-https openssl git curl ca-certificates gnupg-agent gnome-tweaks 
